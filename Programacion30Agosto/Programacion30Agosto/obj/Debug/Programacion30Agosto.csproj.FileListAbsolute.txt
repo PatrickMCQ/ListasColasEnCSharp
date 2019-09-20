@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\Programacion30Agosto\Programacion30Agosto\bin\Debug\Programacion30Agosto.exe.config
+C:\Users\patri\source\repos\Programacion30Agosto\Programacion30Agosto\obj\Debug\Programacion30Agosto.csprojResolveAssemblyReference.cache
+C:\Users\patri\source\repos\Programacion30Agosto\Programacion30Agosto\bin\Debug\Programacion30Agosto.exe
+C:\Users\patri\source\repos\Programacion30Agosto\Programacion30Agosto\bin\Debug\Programacion30Agosto.pdb
+C:\Users\patri\source\repos\Programacion30Agosto\Programacion30Agosto\obj\Debug\Programacion30Agosto.exe
+C:\Users\patri\source\repos\Programacion30Agosto\Programacion30Agosto\obj\Debug\Programacion30Agosto.pdb

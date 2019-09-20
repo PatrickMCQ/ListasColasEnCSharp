@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\Programacion6deSeptiembre\Programacion6deSeptiembre\bin\Debug\Programacion6deSeptiembre.exe.config
+C:\Users\patri\source\repos\Programacion6deSeptiembre\Programacion6deSeptiembre\bin\Debug\Programacion6deSeptiembre.exe
+C:\Users\patri\source\repos\Programacion6deSeptiembre\Programacion6deSeptiembre\bin\Debug\Programacion6deSeptiembre.pdb
+C:\Users\patri\source\repos\Programacion6deSeptiembre\Programacion6deSeptiembre\obj\Debug\Programacion6deSeptiembre.csprojResolveAssemblyReference.cache
+C:\Users\patri\source\repos\Programacion6deSeptiembre\Programacion6deSeptiembre\obj\Debug\Programacion6deSeptiembre.exe
+C:\Users\patri\source\repos\Programacion6deSeptiembre\Programacion6deSeptiembre\obj\Debug\Programacion6deSeptiembre.pdb
