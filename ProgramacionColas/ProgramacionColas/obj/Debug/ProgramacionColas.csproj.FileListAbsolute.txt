@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\ProgramacionColas\ProgramacionColas\bin\Debug\ProgramacionColas.exe.config
+C:\Users\patri\source\repos\ProgramacionColas\ProgramacionColas\bin\Debug\ProgramacionColas.exe
+C:\Users\patri\source\repos\ProgramacionColas\ProgramacionColas\bin\Debug\ProgramacionColas.pdb
+C:\Users\patri\source\repos\ProgramacionColas\ProgramacionColas\obj\Debug\ProgramacionColas.csprojResolveAssemblyReference.cache
+C:\Users\patri\source\repos\ProgramacionColas\ProgramacionColas\obj\Debug\ProgramacionColas.exe
+C:\Users\patri\source\repos\ProgramacionColas\ProgramacionColas\obj\Debug\ProgramacionColas.pdb
